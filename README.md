@@ -1,23 +1,36 @@
+
+Aquí está el README completo con todos los símbolos incluidos:
+
+```
 # primer_programa
-repositorio creado para lógica de programación
 
-## Contenido
-- Primer programa
-- Command challenge
-- Diapositivas
-- Recursos usados
+## Descripción del proyecto
+Este es nuestro primer programa en Java. Creamos un "Hola Mundo" pero mejorado: 
+el programa saluda al usuario, le pide su nombre y muestra información básica 
+del equipo donde se ejecuta.
 
-## Programa
-TODO: subir el programa y evidencias
-TODO: evidencias instalacion JDK
+## Instrucciones para ejecutar el programa
 
-## Command challenge
-TODO: evidencia del challenge terminado
+1. Clona este repositorio:
+   git clone https://github.com/tu-usuario/primer_programa.git
 
-## Presentacion
-TODO: subir presentación para la exposición
+2. Entra a la carpeta:
+   cd primer_programa
 
-## Enlaces
+3. Compila el programa:
+   javac HolaMundo.java
+
+4. Ejecuta el programa:
+   java HolaMundo
+
+## Equipo de trabajo
+
+- Jeronimo Toro
+- Ian Isaza
+- Juan Jose Alzate
+
+## Recursos utilizados
+
 -[Comandos linux](https://www.cdmon.com/es/blog/comandos-basicos-linux)
 
 -[Información Presentación](https://hardzone.es/tutoriales/rendimiento/ciclo-instruccion-cpu/)
