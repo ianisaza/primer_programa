@@ -1,7 +1,4 @@
 
-Aquí está el README completo con todos los símbolos incluidos:
-
-```
 # primer_programa
 
 ## Descripción del proyecto
